@@ -1,3 +1,3 @@
 # Copy Marker
-> Chrome extension to copy shareable URL with highlighted selection
+> Chrome extension — Copy shareable URL with highlighted selection
 
