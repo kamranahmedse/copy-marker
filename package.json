@@ -1,0 +1,9 @@
+{
+  "name": "spotllight",
+  "version": "1.0.0",
+  "description": "Copy the URL with selection highlighted",
+  "main": "index.js",
+  "repository": "https://github.com/kamranahmedse/spotlight",
+  "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
+  "license": "MIT"
+}
