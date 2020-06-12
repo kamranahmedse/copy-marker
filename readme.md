@@ -7,6 +7,8 @@ Copy Marker allows you to select some text on page, right click and "Copy Marker
 
 Install it from the [Chrome Web Store]() or download and [install manually](http://superuser.com/a/247654/6877)
 
+![](./shot.png)
+
 ## Inspiration
 
 You might have noticed that Google recently started [highlighting the content](https://i.imgur.com/YVcpRjb.png) of the target page when you land it from the Google's search results. It uses [Text Fragments](https://wicg.github.io/scroll-to-text-fragment/) to achieve that. Copy Marker is a chrome extension that let's you simulate the same behavior.
