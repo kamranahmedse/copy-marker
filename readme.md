@@ -5,7 +5,7 @@ Copy Marker allows you to select some text on page, right click and "Copy Marker
 
 ## Install 
 
-Install it from the [Chrome Web Store]() or download and [install manually](http://superuser.com/a/247654/6877)
+Install it from the ~Chrome Web Store~ (pending review) or download and [install manually](http://superuser.com/a/247654/6877)
 
 ![](./shot.png)
 
