@@ -1,11 +1,21 @@
 {
-  "name": "Spotlight",
+  "name": "Copy Marker",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Copy the URL with selection highlighted",
+  "description": "Copy shareable URL with highlighted selection",
   "permissions": [
     "contextMenus"
   ],
+  "icons": {
+    "16": "/icons/icon16.png",
+    "28": "/icons/icon28.png",
+    "48": "/icons/icon48.png",
+    "128": "/icons/icon128.png"
+  },
+  "browser_action": {
+    "default_title": "Copy Marker",
+    "default_icon": "/icons/icon128.png"
+  },
   "background": {
     "scripts": [
       "script.js"
