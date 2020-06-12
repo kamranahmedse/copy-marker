@@ -4,9 +4,7 @@
   "manifest_version": 2,
   "description": "Copy the URL with selection highlighted",
   "permissions": [
-    "contextMenus",
-    "activeTab",
-    "clipboardWrite"
+    "contextMenus"
   ],
   "background": {
     "scripts": [

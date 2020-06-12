@@ -34,7 +34,6 @@ function onCopyUrl(info) {
     textFragment = `:~:text=${encodeURIComponent(selectionText)}`;
   }
 
-  // #:~:text=Word
   const highlightUrl = new URL(pageUrl);
 
   if (textFragment) {
